@@ -28,7 +28,7 @@ benchRelative(md5, m):
 
   doNotOptimizeAway(h)
 
-benchRelative(metrohashContext, m):
+benchRelative(metrohash64Context, m):
   var 
     c: MetroHashContext 
     d: MetroHash64Digest
