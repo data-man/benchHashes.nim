@@ -1,12 +1,3 @@
-#
-#
-#           The Nim Compiler
-#        (c) Copyright 2012 Andreas Rumpf
-#
-#    See the file "copying.txt", included in this
-#    distribution, for details about the copyright.
-#
-
 import endians, strutils, os
 
 type
